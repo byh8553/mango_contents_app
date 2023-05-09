@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729248309413",
+    "project_id": "mango-contents-app",
+    "storage_bucket": "mango-contents-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729248309413:android:cb9f745fb96294dc906d4c",
+        "android_client_info": {
+          "package_name": "com.happyvin.mango_contents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729248309413-7qgvf61447lftp2jb03ucnhq130udbbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzc5iBCKRo4aHU3l0chTrGucp4eFz4J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729248309413-7qgvf61447lftp2jb03ucnhq130udbbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
